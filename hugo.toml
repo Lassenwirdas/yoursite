@@ -1,7 +1,7 @@
 baseURL = 'https://Lassenwirdas.github.io/'
 languageCode = 'en-us'
 title = 'Lasse Medla Web-Page'
-publishDir = "docs"
+# publishDir = "docs"
 [markup.highlight]
 noclasses = false
 [[module.imports]]
