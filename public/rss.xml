@@ -61,7 +61,7 @@
         
 
         
-            <title>My New Hugo Site</title>
+            <title>Lasse Medla Webpage</title>
         
 
         
@@ -84,8 +84,6 @@
                     
 
                     
-                        
-                    
 
                     
                     
@@ -93,6 +91,8 @@
 
                     
 
+                    
+                        <description><![CDATA[<p>We write something here that will hopefully look very nice</p><p>$$ x^2=sqrt(x)$$</p><h1 id=headline>Headline</h1><h2 id=section>Section</h2><h3 id=subsection>Subsection</h3><h4 id=subsubsection>Subsubsection</h4><p>Let&rsquo;s GO!</p>]]></description>
                     
 
                     
@@ -118,7 +118,7 @@
                     
 
                     
-                        <title>Mypost</title>
+                        <title>Firstpost</title>
                     
                 </item>
             

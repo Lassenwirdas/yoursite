@@ -1,6 +1,6 @@
 baseURL = 'https://Lassenwirdas.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Lasse Medla Webpage'
 [markup.highlight]
 noclasses = false
 style = "github" 
