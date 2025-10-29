@@ -1,9 +1,9 @@
 baseURL = 'https://Lassenwirdas.github.io/'
 languageCode = 'en-us'
-title = 'Lasse Medla Webpage'
+title = 'Lasse Medla Web-Page'
 [markup.highlight]
 noclasses = false
-style = "github" 
+
 [[module.imports]]
 path = "github.com/willfaught/paige"
 [caches]
